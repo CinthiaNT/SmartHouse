@@ -5,8 +5,16 @@
 Crear un prototipo de vivienda que cuente con un sistema de automatización avanzado que permite 
 controlar distintas funciones de seguridad, luminosidad y temperatura de manera cómoda y sofisticada.
 ### Solución
-La casa inteligente consiste
+Mediante la aplicacion web para el control de la casa se podra activar la alarma, cuando esta se encuentra activada y 
+alguien abre la puerta se envia esta informacion por la pagina web y además se activa una alarma. 
+(Esto se controla con la ayuda de un interruptor magnetico.)
+Cuando no hay luz solar se encienden las luces de la habitación principal. (Se controla con una fotoresistencia.)
+Cuando la temperatura dentro de la cocina es muy elevada se enciende un ventilador que ayuda a bajar la temperatura
+dentro de la habitacion, también se cotrola la humedad. (Sensor de temperatura y sensor de humedad).
 
+Dichas acciones se realizan automaticamente con las mediciones de los diferentes sensores pero también se pueden controlar
+por la aplicación web.
+Toda la informacion de la casa inteligente se puede consultar desde el sitio web.
 
 
 ### Materiales 
@@ -37,5 +45,6 @@ La casa inteligente consiste
 Soporta IPv4 y los protocolos TCP/UDP/HTTP/FTP
 
 ### Placa shield ethernet w5100
-
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/esquema.jpg)
 ### Lenguaje de Boceto
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/Diapositiva1.JPG)
