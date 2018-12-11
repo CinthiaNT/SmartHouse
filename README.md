@@ -60,4 +60,10 @@ Soporta IPv4 y los protocolos TCP/UDP/HTTP/FTP
 ![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/interruptormagnetico.jpg)
 ### Placa shield ethernet w5100
 ![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/esquema.jpg)
+### Proyecto Terminado
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/casa.jpg)
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/casa2.jpg)
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/casa3.jpg)
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/casa4.jpg)
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/casa5.jpg)
 
