@@ -44,7 +44,16 @@ Toda la informacion de la casa inteligente se puede consultar desde el sitio web
 ### Conectividad
 Soporta IPv4 y los protocolos TCP/UDP/HTTP/FTP
 
-### Placa shield ethernet w5100
-![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/esquema.jpg)
 ### Lenguaje de Boceto
 ![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/Diapositiva1.JPG)
+
+## Diagrama de conexion de sensores
+#### Sensor de Temperatura y humedad
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/dht11.jpg)
+#### Sensor de Luminosidad
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/fotoresistencia.jpg)
+#### Interruptor magnetico
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/interruptormagnetico.jpg)
+### Placa shield ethernet w5100
+![Imagen](https://github.com/CinthiaNT/SmartHouse/blob/master/SmartHouse/src/EsquemaGeneral/esquema.jpg)
+
