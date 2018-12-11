@@ -33,6 +33,8 @@ La casa inteligente consiste
 - SPI.h
 - Ethernet.h
 - DHT
+### Conectividad
+Soporta IPv4 y los protocolos TCP/UDP/HTTP/FTP
 
 ### Placa shield ethernet w5100
 
