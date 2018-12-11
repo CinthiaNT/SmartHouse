@@ -1,6 +1,10 @@
 --------------------------------
 # Casa Inteligente
 --------------------------------
+### Autores:
+- González Alcaraz Hernán Arturo
+- Nava Torres Juana Cinthia Lizbeth
+- Padilla Guerrero Paul Adrian
 ### Propósito del proyecto
 Crear un prototipo de vivienda que cuente con un sistema de automatización avanzado que permite 
 controlar distintas funciones de seguridad, luminosidad y temperatura de manera cómoda y sofisticada.
